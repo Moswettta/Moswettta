@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @Moswettta
-- 👀 I’m interested in ...php /mysql system development
-- 🌱 I’m currently developing and customizing php systems ...
-- 💞️ I’m looking to collaborate on web development frameworks
-- 📫 How to reach me ...benjaminmosweta@gmail.com
-- for customization and and  passwords  feel free to whatsup me on +254798458270
+ICT Support Specialist | Systems Administrator | PHP Web Developer
 
-<!---
-Moswettta/Moswettta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building practical web applications using PHP, MySQL, JavaScript, HTML & CSS.
+
+Interested in IT Support, Systems Administration, Business Automation, and Scalable Web Solutions.
+
+Open to internships, graduate roles, freelance projects, and international collaboration.
