@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benjamin Maosa Mosweta</h1>
+<h1 align="center">Hi , I'm Benjamin Maosa Mosweta</h1>
 
 <h3 align="center">ICT Support Specialist | Systems Administrator | PHP Web Developer</h3>
 
@@ -16,11 +16,11 @@ I enjoy developing practical solutions that improve business operations while co
 
 I'm currently looking for:
 
-- 🎓 Graduate Trainee Opportunities
-- 💼 ICT Support & Help Desk Roles
-- 🌍 International Remote Opportunities
-- 🤝 Open Source Collaboration
-- 🚀 Freelance Web Development Projects
+- Graduate Trainee Opportunities
+- ICT Support & Help Desk Roles
+- International Remote Opportunities
+- Open Source Collaboration
+- Freelance Web Development Projects
 
 ---
 
@@ -28,14 +28,16 @@ I'm currently looking for:
 
 ### Programming Languages
 - PHP
+- React js
 - JavaScript
 - HTML5
 - CSS3
 - SQL
 
-### Database
+Database
 - MySQL
 - MariaDB
+- postgress
 
 ### ICT Support
 - Windows Administration
