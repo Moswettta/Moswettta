@@ -8,7 +8,7 @@ Building practical technology solutions through ICT Support, Systems Administrat
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm an **ICT Support Specialist** and **PHP Web Developer** with hands-on experience in IT support, systems administration, network troubleshooting, and building business management systems.
 
@@ -24,7 +24,7 @@ I'm currently looking for:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 - PHP
@@ -61,9 +61,9 @@ Database
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-### 🐾 Veterinary Booking System
+###  Veterinary Booking System
 A complete veterinary appointment management system with:
 
 - Pet Owner Portal
@@ -75,7 +75,7 @@ A complete veterinary appointment management system with:
 
 ---
 
-### 🚗 Garage Management System
+###  Garage Management System
 
 A role-based garage management system featuring:
 
@@ -87,7 +87,7 @@ A role-based garage management system featuring:
 
 ---
 
-### 🚘 Car Wash Management System
+### Car Wash Management System
 
 A web application for managing:
 
@@ -98,7 +98,7 @@ A web application for managing:
 
 ---
 
-### 🏫 School Management System
+###   School Management System
 
 Developed using PHP & MySQL with modules for:
 
@@ -112,14 +112,14 @@ Developed using PHP & MySQL with modules for:
 
 ## 📈 GitHub Stats
 
-- 📂 35+ Public Repositories
-- 💻 Practical PHP & MySQL Projects
-- 🔄 Active Contributor
-- 🌱 Continuously Learning
+-  35+ Public Repositories
+- Practical PHP & MySQL Projects
+- Active Contributor
+- Continuously Learning
 
 ---
 
-## 🌐 Portfolio
+##  Portfolio
 
 🔗 **Portfolio**
 
