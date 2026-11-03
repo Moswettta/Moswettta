@@ -127,7 +127,7 @@ https://moswettta.github.io/MaosaDevPortfolio/
 
 ---
 
-## 💼 LinkedIn
+##  LinkedIn
 
 🔗
 
@@ -135,7 +135,7 @@ https://www.linkedin.com/in/benjamin-maosa/
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 📧 Email
 
@@ -143,7 +143,7 @@ benjaminmosweta@gmail.com
 
 ---
 
-## 🎯 Career Interests
+## Career Interests
 
 - ICT Support
 - Systems Administration
@@ -156,10 +156,10 @@ benjaminmosweta@gmail.com
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 I enjoy building real-world systems that solve everyday business challenges while continually improving my skills in ICT support and software development.
 
 ---
 
-⭐ Feel free to explore my repositories, provide feedback, or collaborate on exciting projects.
+Feel free to explore my repositories, provide feedback, or collaborate on exciting projects.
